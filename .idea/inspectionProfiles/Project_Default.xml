@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="agent-framework-core" />
+          <option value="agent-framework-openai" />
+          <option value="agno" />
+          <option value="deepagents" />
+          <option value="fastapi" />
+          <option value="google-adk" />
+          <option value="gradio" />
+          <option value="ipykernel" />
+          <option value="ipywidgets" />
+          <option value="langchain" />
+          <option value="langchain-community" />
+          <option value="langchain-mcp-adapters" />
+          <option value="langchain-openai" />
+          <option value="langgraph" />
+          <option value="langgraph-checkpoint-sqlite" />
+          <option value="massive" />
+          <option value="openai" />
+          <option value="openai-agents" />
+          <option value="plotly" />
+          <option value="pydantic" />
+          <option value="pydantic-ai-slim" />
+          <option value="pypdf" />
+          <option value="python-dotenv" />
+          <option value="python-pptx" />
+          <option value="requests" />
+          <option value="rich" />
+          <option value="strands-agents" />
+          <option value="uvicorn" />
+          <option value="wikipedia" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
